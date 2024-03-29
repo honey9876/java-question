@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class largest {
     public int maxSubarrayLength(int[] v, int k) {
         int n = v.length;
         Map<Integer, Integer> m = new HashMap<>();

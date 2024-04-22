@@ -1,4 +1,4 @@
-public class Solution {
+public class helo {
     public static void allOccurrences(int arr[], int key, int i) {
         if (i == arr.length) {
             return;
